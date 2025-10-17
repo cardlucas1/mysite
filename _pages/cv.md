@@ -11,28 +11,21 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Bachelor Degree in Computer Science, [Unicamp](https://unicamp.br/), 2028 (expected)
+* High School Degree Coupled with Professional Specialization in Informatics (software development), [Fundação Matias Machline](https://fundacaomatiasmachline.org.br/), 2023
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* **Aug 2025 - present:** undergraduate researcher
+  * Developing a Scientific Initiation project focused on Graph Algorithms for the Problem of Positioning Charging Stations for Energy-Constrained Robots.
+  * Learning skills such as academic writing, bibliographic research, Graph Theory, Operations Research, and Design and Analysis of Algorithms.
+  * Supervised by Professor [Santiago Valdés Ravelo](https://ic.unicamp.br/~santiago/).
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* **Feb 2025 - present:** undergraduate teaching assistantship
+  * Assisted around 70 freshman indigenous students with tasks of basic informatics, such as writing documents, making spreadsheets, and editing images with Google Workspace tools.
+  * Supervised by Professor [Lehilton Pedrosa](https://ic.unicamp.br/~lehilton/).
   
-Skills
+<!-- Skills
 ======
 * Skill 1
 * Skill 2
@@ -61,4 +54,4 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Currently signed in to 43 different slack teams -->
