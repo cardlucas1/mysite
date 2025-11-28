@@ -61,5 +61,5 @@ I'm Lucas Cardoso, a Computer Science undergraduate student at the [Institute of
 
 My main areas of study and research interest include **Combinatorial Optimization**, **Operations Research**, and the **Design and Analysis of Algorithms**.
 
-I'm currently developing a Scientific Initiation project focused on Graph Algorithms for the Problem of Positioning Charging Stations for Energy-Constrained Robots, supervised by Professor [Santiago Valdés Ravelo](https://ic.unicamp.br/~santiago) at the [Laboratory of Optimization and Combinatorics](https://loco.ic.unicamp.br).
+I'm currently developing a Scientific Initiation project focused on Graph Algorithms for the Problem of Positioning Charging Stations for Energy-Constrained Robots, supervised by Professor [Santiago Valdés Ravelo](https://ic.unicamp.br/~santiago) at the [Laboratory of Optimization and Combinatorics](https://loco.ic.unicamp.br), with a scolarship granted by [the National Council for Scientific and Technological Development (CNPq) of Brazil](https://cnpq.br).
 
