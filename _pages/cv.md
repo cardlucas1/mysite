@@ -20,7 +20,7 @@ Work experience
   * Developing a Scientific Initiation project focused on Graph Algorithms for the Problem of Positioning Charging Stations for Energy-Constrained Robots.
   * Learning skills such as academic writing, bibliographic research, Graph Theory, Operations Research, and Design and Analysis of Algorithms.
   * Supervised by Professor [Santiago Valdés Ravelo](https://ic.unicamp.br/~santiago/).
-  * With a scolarship granted by [the National Council for Scientific and Technological Development (CNPq) of Brazil](https://cnpq.br).
+  * With a scholarship granted by [the National Council for Scientific and Technological Development (CNPq) of Brazil](https://cnpq.br).
 
 * **Feb 2025 - Dec 2025:** undergraduate teaching assistantship
   * Assisted around 70 freshman indigenous students with tasks of basic informatics, such as writing documents, making spreadsheets, and editing images with Google Workspace tools.
