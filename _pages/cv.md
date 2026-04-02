@@ -23,8 +23,9 @@ Work experience
   * With a scholarship granted by [the National Council for Scientific and Technological Development (CNPq) of Brazil](https://cnpq.br).
 
 * **Feb 2025 - Dec 2025:** undergraduate teaching assistantship
-  * Assisted around 70 freshman indigenous students with tasks of basic informatics, such as writing documents, making spreadsheets, and editing images with Google Workspace tools.
+  * Assisted around 70 freshmen indigenous students with tasks of basic informatics, such as writing documents, making spreadsheets, and editing images with Google Workspace tools.
   * Supervised by Professor [Lehilton Pedrosa](https://ic.unicamp.br/~lehilton/).
+  * With a scholarship granted by [the Office of Undergraduate Studies of UNICAMP](https://www.prg.unicamp.br/)
   
 <!-- Skills
 ======
