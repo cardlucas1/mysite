@@ -24,7 +24,7 @@ repository: "cardlucas1/mysite"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar: "mypic.jpg"
+  avatar: "mypic2.jpg"
   name: "Lucas Cardoso Pereira"
   pronouns: "he/him"
   bio: "CS undergraduate student @ <a href='https://unicamp.br/'>State University of Campinas</a><br>Member of the <a href='https://loco.ic.unicamp.br' target='_blank'>Laboratory of Optimization and Combinatorics (LOCo)</a>"
