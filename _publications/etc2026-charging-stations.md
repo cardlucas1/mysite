@@ -5,7 +5,7 @@ category: conferences
 permalink: /publication/etc2026
 date: 2026-07-23
 venue: 'Anais do XI Encontro de Teoria da Computação'
-slidesurl: 'https://cardlucas2.com/files/etc2026-slides.bib'
+slidesurl: 'https://cardlucas2.com/files/etc2026-slides.pdf'
 paperurl: 'https://https://sol.sbc.org.br/index.php/etc/article/view/43666'
 bibtexurl: 'https://cardlucas2.com/files/etc2026.bib'
 citation: 'L. Pereira and S. Ravelo. "Placement of charging stations for energy-constrained robots in spider graphs", in Anais do XI Encontro de Teoria da Computação, Gramado/RS, 2026, pp. 220-224, doi: <a href=https://doi.org/10.5753/etc.2026.23745>https://doi.org/10.5753/etc.2026.23745</a>.'
