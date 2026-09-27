@@ -9,10 +9,10 @@
 # Basic Site Settings
 locale: "en-US"
 site_theme: "default" # Currently available options are "default", "air"
-title: "Lucas Cardoso's page"
+title: "Lucas Cardoso"
 title_separator: "-"
 name: "Lucas Cardoso Pereira"
-description: "Your Name's academic portfolio" # Update this with a general description of your site, this is the default if not overridden by a page
+description: "This is Lucas Cardoso's academic and personal portfolio" # Update this with a general description of your site, this is the default if not overridden by a page
 url:
   https://cardlucas2.com # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
   # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
@@ -27,11 +27,11 @@ author:
   avatar: "mypic.jpg"
   name: "Lucas Cardoso Pereira"
   pronouns: "he/him"
-  bio: "CS undergraduate student @ UNICAMP<br>Member of the <a href='https://loco.ic.unicamp.br' target='_blank'>Laboratory of Optimization and Combinatorics (LOCo)</a>"
+  bio: "CS undergraduate student @ <a href='https://unicamp.br/'>State University of Campinas</a><br>Member of the <a href='https://loco.ic.unicamp.br' target='_blank'>Laboratory of Optimization and Combinatorics (LOCo)</a>"
   location: "Campinas, São Paulo, Brazil"
   employer: "State University of Campinas"
   employer_page: "https://unicamp.br/"
-  uri: # URL
+  uri:
   email: "lucascpereira@proton.me"
 
   # Academic websites
