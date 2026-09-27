@@ -55,11 +55,10 @@ For more info
 ------
 More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/), the [growing wiki](https://github.com/academicpages/academicpages.github.io/wiki), and you can always [ask a question on GitHub](https://github.com/academicpages/academicpages.github.io/discussions). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful. -->
 
-> "I'm not bigger than sea" -- Humberto Gessinger
+> "And I ride the winds of a brand new day" -- Rebirth, from Angra
 
 I'm Lucas Cardoso, a Computer Science undergraduate student at the [Institute of Computing](https://ic.unicamp.br) at [Unicamp](https://unicamp.br).
 
 My main areas of study and research interest include **Combinatorial Optimization**, **Operations Research**, and the **Design and Analysis of Algorithms**.
 
 I'm currently developing a Scientific Initiation project focused on Graph Algorithms for the Problem of Positioning Charging Stations for Energy-Constrained Robots, supervised by Professor [Santiago Valdés Ravelo](https://ic.unicamp.br/~santiago) at the [Laboratory of Optimization and Combinatorics](https://loco.ic.unicamp.br), with a scholarship granted by [the National Council for Scientific and Technological Development (CNPq) of Brazil](https://cnpq.br).
-
